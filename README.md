@@ -13,6 +13,8 @@ this is licened under the apache something something licens pls no skid wtf
 - serverri sider casino hack (roullete spin awlays 0 (cen choose what want [!!!]) !)
  - vivi
   - 140 celciueus pc/laptop for easy cooking like oven.
+   - has chnce of cler inventory (intennded feetur is not bug !)
+- might use much ram (is not memory leak no worry !)
 
 # stop skidde
 dont' be like this little kid!
