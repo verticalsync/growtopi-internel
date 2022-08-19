@@ -12,6 +12,7 @@ this is licened under the apache something something licens pls no skid wtf
   - not skid
 - serverri sider casino hack (roullete spin awlays 0 !)
  - vivi
+  - 140 celciueus pc/laptop for easy cooking like oven.
 
 # stop skidde
 dont' be like this little kid!
