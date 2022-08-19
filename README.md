@@ -19,6 +19,7 @@ this is licened under the apache something something licens pls no skid wtf
 - might use much ram (is not memory leak no worry !)
    - shadwo ban fix by bleek !!! (thank)
  - infinit bot glitch with soks5 (thank bleek)
+- sistam freezer (freez system
 
 # stop skidde
 dont' be like this little kid!
