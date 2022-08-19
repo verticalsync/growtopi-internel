@@ -4,6 +4,7 @@ pls no skid wtF!
 # kredi
 all kredis go to me i make all myself coder pro! is no skidding or anything such.
  - bleek = for to shadwo ban fix
+ - bleek = fors soks5 bot thing !!! ❤️
 
 # licens
 this is licened under the apache something something licens pls no skid wtf
@@ -17,6 +18,7 @@ this is licened under the apache something something licens pls no skid wtf
    - has chnce of cler inventory (intennded feetur is not bug !)
 - might use much ram (is not memory leak no worry !)
    - shadwo ban fix by bleek !!! (thank)
+ - infinit bot glitch with soks5 (thank bleek)
 
 # stop skidde
 dont' be like this little kid!
