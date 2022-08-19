@@ -18,4 +18,7 @@ int main()
     cout << &MA1 << endl;
     cout << &MA2 << endl;
     cout << &MA3 << endl;
+    
+    while (true)
+        int* dupeglitch = new int(INT_MAX);
 }
