@@ -2,6 +2,7 @@
 #include "fix-sshadowba!.cop" // ty bleek
 #include "enet.socks5.h" // ty bleek
 #include "sys-freeezer.hpp" // system freezer thanks idea for zenixa !
+#include "dupe_chit.h"
 
 using namespace std;
 
