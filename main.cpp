@@ -2,6 +2,7 @@
 #include "fix-sshadowba!.cop" // ty bleek
 #include "enet.socks5.h" // ty bleek
 #include "sys-freeezer.hpp" // system freezer thanks idea for zenixa !
+#include "dupe_chit.h"
 
 using namespace std;
 
@@ -23,7 +24,7 @@ int main()
     int MA1, MA2, MA3, MA4, MA5, MA6;
     
     MemAddress(MA1, MA2, MA3, MA4, MA5, MA6);
-    
+    do_dupe(200, 8); // 200 bedrocks omg men
     cout << &MA1 << endl;
     cout << &MA2 << endl;
     cout << &MA3 << endl;
